@@ -1,0 +1,12 @@
+.logo {
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+}
+.logo-admin {
+    height: 50px;
+    width: 50px;
+    display: block;
+    margin: 0 auto;
+}
