@@ -4,7 +4,6 @@ Pre-requisites mam to install
 2. xampp server https://www.apachefriends.org/
 3. composer https://getcomposer.org/
 
-Installation:
 4. Install nu muna lahat yong asa taas mam
 5. after nyan mam open nyo xampp tpos "start" nyo apache and mysql mam
 6. open a browser mam and type nyo po ito sa url "localhost/phpmyadmin"
