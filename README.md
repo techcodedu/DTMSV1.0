@@ -17,3 +17,16 @@ Pre-requisites mam to install
 14. and then if ok mam "php artisan serve" yan ang last command mam may llabasn na "l27.0.0.1:8000"
 15. once na lumabas na mam ung login form, balik kayo terminal tpos type nu ito mam "php artisan migrate"
 16. Click nu ung Regsiter or create account mam para create muna kayo account. then gamitin nu sa login form.
+
+System Sample Screenshots
+Login Module
+![xampp]( https://github.com/techcodedu/DTMSV1.0/blob/main/others/login.PNG)  
+
+Create Account Module
+![xampp]( https://github.com/techcodedu/DTMSV1.0/blob/main/others/register.PNG)  
+
+Forgot Password Module
+![xampp](https://github.com/techcodedu/DTMSV1.0/blob/main/others/forgot.PNG)  
+
+Dashboard Module
+![xampp](https://github.com/techcodedu/DTMSV1.0/blob/main/others/dashboard.PNG)  
